@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BluetoothApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="bluetooth_off">Please turn on your bluetooth to interact with the beacon!</string>
+    <string name="bluetooth_on">Bluetooth turned on :)</string>
+
+</resources>
